@@ -1,0 +1,24 @@
+{
+  "app-users": [
+    {
+      "userName": "sdf",
+      "password": "sdf",
+      "id": "1"
+    },
+    {
+      "userName": "newUser",
+      "password": "newPassword",
+      "id": "2"
+    },
+    {
+      "id": "8696",
+      "userName": "rykojr",
+      "password": "b4ud2r1998"
+    },
+    {
+      "id": "55c5",
+      "userName": "jon",
+      "password": "beanie"
+    }
+  ]
+}
